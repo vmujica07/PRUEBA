@@ -1,1 +1,1 @@
-AELE
+select * from EMP;
